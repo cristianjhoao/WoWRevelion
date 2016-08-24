@@ -18,7 +18,6 @@
 #include "LFG.h"
 #include "Language.h"
 #include "ObjectMgr.h"
-
 namespace lfg
 {
 
